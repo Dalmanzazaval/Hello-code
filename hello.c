@@ -7,6 +7,8 @@ Date: 2020/01/14
 int main(void) {
 	printf("Diego Almanza !\n");
 	printf("Elecrtical Engineer\n");
+	printf("August Busenbark\n");
+	printf("Electrical Engineering\n");
 	return 0;
 }
 
